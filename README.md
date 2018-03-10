@@ -124,7 +124,7 @@ Source Code
 
 The Python source code for Backup Monkey is available on GitHub:
 
-https://github.com/Answers4AWS/backup-monkey
+https://github.com/Rome84/backup_monkey
 
 
 About Answers for AWS
